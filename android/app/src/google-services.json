@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130580520532",
+    "project_id": "healthybites-1d702",
+    "storage_bucket": "healthybites-1d702.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130580520532:android:7a22e08090840e83a8d7c1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADQlPewrtZY2H07iHPOl6TFJjciY-3l50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
